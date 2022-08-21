@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @ShoGinn
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hey there, you found me.
 
-<!---
-ShoGinn/ShoGinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-1568BF?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/scottdginn)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/385709374422777856)
+
+![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoginn&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoginn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
