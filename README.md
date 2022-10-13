@@ -11,3 +11,10 @@ I have a couple online presences:
 
 ![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoginn&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoginn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
+
+My Certifications:
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
