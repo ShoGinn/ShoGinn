@@ -1,6 +1,8 @@
 ### Hey there, you found me.
 
-I have a couple online presences:
+I'm open to freelance work. I've spent most of my time developing in Typescript for Discord and Webpage development using Hugo!
+
+I have a couple of online presences:
 * [Wiki](https://github.com/ShoGinn/shoginn.github.io/wiki)
 * [Portfolio Page](https://ginn.space)
 
