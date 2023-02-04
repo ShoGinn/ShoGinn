@@ -1,4 +1,4 @@
-### Hey there, you found me.
+### Hey there!
 
 I'm open to freelance work. I've spent most of my time developing in Typescript for Discord and Webpage development using Hugo!
 
