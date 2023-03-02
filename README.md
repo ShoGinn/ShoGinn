@@ -19,6 +19,7 @@ I have a couple of online presences:
 
 My Certifications:
 <!--START_SECTION:badges-->
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/4f26ff8e-77c7-4f7a-a5f1-0db1fdaa17e1 "AWS Cloud Quest: Cloud Practitioner")
 [![Google IT Automation Certificate](https://images.credly.com/size/110x110/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](http://www.credly.com/badges/07a1e15b-f6b2-46ad-bd51-9849d870b62c "Google IT Automation Certificate")
 [![Google IT Support Certificate](https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/61d03ea5-f26e-4c61-90a7-5cf57e91a919 "Google IT Support Certificate")
 <!--END_SECTION:badges-->
