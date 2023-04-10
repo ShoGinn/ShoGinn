@@ -4,7 +4,6 @@ I'm open to freelance work. I've spent most of my time developing in Typescript 
 
 I have a couple of online presences:
 * [Wiki](https://github.com/ShoGinn/shoginn.github.io/wiki)
-* [Portfolio Page](https://ginn.space)
 
 ---
 
