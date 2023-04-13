@@ -9,7 +9,7 @@ Clever Links...
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=flag-square&logo=discord&logoColor=white)](https://discordapp.com/users/385709374422777856)
 
 ![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoginn&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoginn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shoginn&layout=compact&exclude_repo=Dice-Game-Logic-Proof)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
