@@ -10,11 +10,11 @@ jobs:
     name: Download SVG files
     strategy:
       matrix:
-        filename: ["stats.svg", "toplangs.svg"]
+        type: ["stats", "toplangs"]
         include:
-          - filename: "stats.svg"
+          - type: "stats"
             url: "https://github-readme-stats-shoginn.vercel.app/api?username=shoginn&count_private=true&theme=transparent"
-          - filename: "toplangs.svg"
+          - type: "toplangs"
             url: "https://github-readme-stats-shoginn.vercel.app/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof"
     steps:
       - uses: actions/checkout@v4
@@ -23,11 +23,11 @@ jobs:
         with:
           url: ${{ matrix.url }}
           target: grs
-          filename: ${{ matrix.filename }}
+          filename: ${{ matrix.type }}.svg
       - name: Upload SVG file
         uses: actions/upload-artifact@v3.1.3
         with:
-          name: ${{ matrix.filename }}
+          name: ${{ matrix.type }}
           path: grs
   push:
     permissions: write-all
