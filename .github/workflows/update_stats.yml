@@ -17,7 +17,7 @@ jobs:
           - type: "stats"
             endpoint: "/api?username=shoginn&count_private=true&theme=transparent"
           - type: "toplangs"
-            endpoint: "/api/top-langs/?username=shoginn&layout=compact&exclude_repo=Dice-Game-Logic-Proof"
+            endpoint: "/api/top-langs/?username=shoginn&layout=compact&theme=transparent"
     steps:
       - uses: actions/checkout@v4
       - name: Download SVG file
