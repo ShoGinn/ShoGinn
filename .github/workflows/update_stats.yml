@@ -11,11 +11,11 @@ jobs:
     strategy:
       matrix:
         filename: ["stats.svg", "toplangs.svg"]
-        url:
-          [
-            "https://github-readme-stats-shoginn.vercel.app/api?username=shoginn&count_private=true&theme=transparent",
-            "https://github-readme-stats-shoginn.vercel.app/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof",
-          ]
+        include:
+          - filename: "stats.svg"
+            url: "https://github-readme-stats-shoginn.vercel.app/api?username=shoginn&count_private=true&theme=transparent"
+          - filename: "toplangs.svg"
+            url: "https://github-readme-stats-shoginn.vercel.app/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof"
     steps:
       - uses: actions/checkout@v2
       - name: Download SVG file
