@@ -1,0 +1,60 @@
+name: Github Readme Cache
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 */4 * * * # Every 4 hours, change it accordingly
+
+jobs:
+  stats:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Stats Card
+    steps:
+      - uses: actions/checkout@v3
+        name: Check out current commit
+      - uses: suisei-cn/actions-download-file@v1.3.0
+        id: stats
+        name: Download the stats file
+        with:
+          url: "https://github-readme-stats-shoginn.vercel.app/api?username=shoginn&count_private=true&theme=transparent"
+          target: grs
+          filename: stats.svg
+      - uses: actions/upload-artifact@master
+        with:
+          name: stats
+          path: grs
+  toplangs:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Stats Card
+    steps:
+      - uses: actions/checkout@v3
+        name: Check out current commit
+      - uses: suisei-cn/actions-download-file@v1.3.0
+        id: stats
+        name: Download the top-langs file
+        with:
+          url: "https://github-readme-stats-shoginn.vercel.app/api/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof"
+          target: grs
+          filename: toplangs.svg
+      - uses: actions/upload-artifact@master
+        with:
+          name: toplangs
+          path: grs
+
+  push:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    name: Push
+    needs: [stats, toplangs]
+    steps:
+      - uses: actions/download-artifact@master
+        with:
+          path: grs
+      - name: Push
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: resource/grs # May change to your desired branch name, the final URL need to be updated if you change this
+          build_dir: grs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
