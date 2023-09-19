@@ -3,50 +3,39 @@ on:
   workflow_dispatch:
   schedule:
     - cron: 0 */4 * * * # Every 4 hours, change it accordingly
-
+env:
+  STATS_URL: https://github-readme-stats-shoginn.vercel.app
 jobs:
-  stats:
+  download:
     permissions: write-all
     runs-on: ubuntu-latest
-    name: Stats Card
+    name: Download SVG files
+    strategy:
+      matrix:
+        filename: ["stats.svg", "toplangs.svg"]
+        url:
+          [
+            "${{ env.STATS_URL }}/api?username=shoginn&count_private=true&theme=transparent",
+            "${{ env.STATS_URL }}/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof",
+          ]
     steps:
-      - uses: actions/checkout@v3
-        name: Check out current commit
-      - uses: suisei-cn/actions-download-file@v1.3.0
-        id: stats
-        name: Download the stats file
+      - uses: actions/checkout@v2
+      - name: Download SVG file
+        uses: suisei-cn/actions-download-file@v1.3.0
         with:
-          url: "https://github-readme-stats-shoginn.vercel.app/api?username=shoginn&count_private=true&theme=transparent"
+          url: ${{ matrix.url }}
           target: grs
-          filename: stats.svg
-      - uses: actions/upload-artifact@master
+          filename: ${{ matrix.filename }}
+      - name: Upload SVG file
+        uses: actions/upload-artifact@v2
         with:
-          name: stats
+          name: ${{ matrix.filename }}
           path: grs
-  toplangs:
-    permissions: write-all
-    runs-on: ubuntu-latest
-    name: Stats Card
-    steps:
-      - uses: actions/checkout@v3
-        name: Check out current commit
-      - uses: suisei-cn/actions-download-file@v1.3.0
-        id: stats
-        name: Download the top-langs file
-        with:
-          url: "https://github-readme-stats-shoginn.vercel.app/api/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof"
-          target: grs
-          filename: toplangs.svg
-      - uses: actions/upload-artifact@master
-        with:
-          name: toplangs
-          path: grs
-
   push:
     permissions: write-all
     runs-on: ubuntu-latest
-    name: Push
-    needs: [stats, toplangs]
+    name: Push SVG Files
+    needs: [download]
     steps:
       - uses: actions/download-artifact@master
         with:
