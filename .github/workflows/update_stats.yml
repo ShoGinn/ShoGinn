@@ -3,8 +3,6 @@ on:
   workflow_dispatch:
   schedule:
     - cron: 0 */4 * * * # Every 4 hours, change it accordingly
-env:
-  STATS_URL: https://github-readme-stats-shoginn.vercel.app
 jobs:
   download:
     permissions: write-all
@@ -15,8 +13,8 @@ jobs:
         filename: ["stats.svg", "toplangs.svg"]
         url:
           [
-            "${{ env.STATS_URL }}/api?username=shoginn&count_private=true&theme=transparent",
-            "${{ env.STATS_URL }}/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof",
+            "$README_STATS_URL/api?username=shoginn&count_private=true&theme=transparent",
+            "$README_STATS_URL/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof",
           ]
     steps:
       - uses: actions/checkout@v2
