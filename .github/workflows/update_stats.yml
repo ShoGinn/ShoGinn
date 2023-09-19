@@ -13,8 +13,8 @@ jobs:
         filename: ["stats.svg", "toplangs.svg"]
         url:
           [
-            "$README_STATS_URL/api?username=shoginn&count_private=true&theme=transparent",
-            "$README_STATS_URL/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof",
+            "https://github-readme-stats-shoginn.vercel.app/api?username=shoginn&count_private=true&theme=transparent",
+            "https://github-readme-stats-shoginn.vercel.app/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof",
           ]
     steps:
       - uses: actions/checkout@v2
