@@ -3,6 +3,8 @@ on:
   workflow_dispatch:
   schedule:
     - cron: 0 */4 * * * # Every 4 hours, change it accordingly
+env:
+  README_STATS_URL: https://github-readme-stats-shoginn.vercel.app
 jobs:
   download:
     permissions: write-all
@@ -13,15 +15,15 @@ jobs:
         type: ["stats", "toplangs"]
         include:
           - type: "stats"
-            url: "https://github-readme-stats-shoginn.vercel.app/api?username=shoginn&count_private=true&theme=transparent"
+            endpoint: "/api?username=shoginn&count_private=true&theme=transparent"
           - type: "toplangs"
-            url: "https://github-readme-stats-shoginn.vercel.app/api/top-langs/?username=shoginn&layout=compact&exclude_repo=Dice-Game-Logic-Proof"
+            endpoint: "/api/top-langs/?username=shoginn&layout=compact&exclude_repo=Dice-Game-Logic-Proof"
     steps:
       - uses: actions/checkout@v4
       - name: Download SVG file
         uses: suisei-cn/actions-download-file@v1.4.0
         with:
-          url: ${{ matrix.url }}
+          url: ${{ env.README_STATS_URL}}${{ matrix.endpoint }}
           target: grs
           filename: ${{ matrix.type }}.svg
       - name: Upload SVG file
