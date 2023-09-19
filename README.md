@@ -29,6 +29,6 @@ I'm proud to have earned several certifications that demonstrate my expertise in
 
 If you're interested in seeing some of my recent work, you can check out my GitHub stats below. These stats show the number of contributions I've made to my repositories, as well as the top programming languages I've used in my projects.
 
-[![Scott's GitHub stats](https://github-readme-stats-shoginn.vercel.app/api?username=shoginn&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Scott's GitHub stats](https://raw.githubusercontent.com/ShoGinn/ShoGinn/resource/grs/stats/stats.svg)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-shoginn.vercel.app/api/top-langs/?username=shoginn&layout=compact&theme=transparent&exclude_repo=Dice-Game-Logic-Proof)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://raw.githubusercontent.com/ShoGinn/ShoGinn/resource/grs/toplangs/toplangs.svg)](https://github.com/anuraghazra/github-readme-stats)
