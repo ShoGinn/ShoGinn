@@ -25,6 +25,10 @@ I'm proud to have earned several certifications that demonstrate my expertise in
 [![Google IT Support Certificate](https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/61d03ea5-f26e-4c61-90a7-5cf57e91a919 "Google IT Support Certificate")
 <!--END_SECTION:badges-->
 
+## My Certificates (Training)
+
+I've completed several training courses that have helped me develop my skills and knowledge in various areas of technology. Here are a few of my most recent training certificates which can be found [here](certificates/README.md)
+
 ## GitHub Stats
 
 If you're interested in seeing some of my recent work, you can check out my GitHub stats below. These stats show the number of contributions I've made to my repositories, as well as the top programming languages I've used in my projects.
