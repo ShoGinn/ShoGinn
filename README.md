@@ -1,7 +1,5 @@
 # About Me
 
-[![Profile Views](https://komarev.com/ghpvc/?username=ShoGinn&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
-
 I'm Scott, a technology enthusiast passionate about automation and making things easier. While I enjoy software development, my passion lies in using technology to streamline processes and improve efficiency. I have experience working with various programming languages and technologies and always look for new challenges and opportunities to grow my skills.
 
 In addition to my interest in automation, I'm passionate about DevOps and its role in modern software development. DevOps is essential for building high-quality software quickly and efficiently, and I'm always looking for ways to improve my DevOps skills and knowledge.
@@ -40,3 +38,7 @@ You can check out my GitHub stats below to see some of my recent work. These sta
 ## Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ShoGinn&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ShoGinn&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
