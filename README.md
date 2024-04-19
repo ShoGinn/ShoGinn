@@ -2,15 +2,13 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ShoGinn&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
 
-I'm Scott, a technology enthusiast who is passionate about automation and making things easier. While I enjoy software development, my true passion lies in using technology to streamline processes and improve efficiency. I have experience working with a variety of programming languages and technologies, and I'm always looking for new challenges and opportunities to grow my skills.
+I'm Scott, a technology enthusiast passionate about automation and making things easier. While I enjoy software development, my passion lies in using technology to streamline processes and improve efficiency. I have experience working with various programming languages and technologies and always look for new challenges and opportunities to grow my skills.
 
-In addition to my interest in automation, I'm also passionate about DevOps and the role it plays in modern software development. I believe that DevOps is essential for building high-quality software quickly and efficiently, and I'm always looking for ways to improve my DevOps skills and knowledge.
-
-If you'd like to get in touch, feel free to reach out to me on LinkedIn or Discord. I'm always happy to chat with other technology enthusiasts and discuss new ideas.
+In addition to my interest in automation, I'm passionate about DevOps and its role in modern software development. DevOps is essential for building high-quality software quickly and efficiently, and I'm always looking for ways to improve my DevOps skills and knowledge.
 
 ## Contact Me
 
-If you'd like to get in touch, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/scottdginn) or [Discord](https://discordapp.com/users/385709374422777856). Or you can start a [Discussion](https://github.com/ShoGinn/ShoGinn/discussions). I'm always happy to chat with other technology enthusiasts and discuss new ideas.
+If you'd like to get in touch, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/scottdginn) or [Discord](https://discordapp.com/users/385709374422777856). You can also start a [Discussion](https://github.com/ShoGinn/ShoGinn/discussions). I'm always happy to chat with other technology enthusiasts and discuss new ideas.
 
 ## Clever Links
 
@@ -18,7 +16,7 @@ In my free time, I enjoy exploring new topics and learning about different areas
 
 ## My Certifications
 
-I'm proud to have earned several certifications that demonstrate my expertise in various areas of technology. Here are a few of my most recent certifications:
+I'm proud to have earned several certifications demonstrating my expertise in various technology areas. Here are a few of my most recent certifications:
 
 <!--START_SECTION:badges-->
 [![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/bb559bbc-5902-4773-936e-c635f2394b12 "Google Data Analytics Professional Certificate")
@@ -29,11 +27,11 @@ I'm proud to have earned several certifications that demonstrate my expertise in
 
 ## My Certificates (Training)
 
-I've completed several training courses that have helped me develop my skills and knowledge in various areas of technology. Here are a few of my most recent training certificates which can be found [here](certificates/README.md)
+Several training courses have helped me develop my skills and knowledge in various technology areas. Here are a few of my most recent training certificates, which can be found [here](certificates/README.md)
 
 ## GitHub Stats
 
-If you're interested in seeing some of my recent work, you can check out my GitHub stats below. These stats show the number of contributions I've made to my repositories, as well as the top programming languages I've used in my projects.
+You can check out my GitHub stats below to see some of my recent work. These stats show the number of contributions I've made to my repositories and the top programming languages I've used in my projects.
 
 [![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoginn&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
