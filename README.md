@@ -17,6 +17,7 @@ In my free time, I enjoy exploring new topics and learning about different areas
 I'm proud to have earned several certifications demonstrating my expertise in various technology areas. Here are a few of my most recent certifications:
 
 <!--START_SECTION:badges-->
+[![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/cab41131-b981-48f9-ab58-81a3bafd594e "Google Cybersecurity Certificate")
 [![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/bb559bbc-5902-4773-936e-c635f2394b12 "Google Data Analytics Professional Certificate")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/4f26ff8e-77c7-4f7a-a5f1-0db1fdaa17e1 "AWS Cloud Quest: Cloud Practitioner")
 [![Google IT Automation with Python Professional Certificate](https://images.credly.com/size/110x110/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](http://www.credly.com/badges/07a1e15b-f6b2-46ad-bd51-9849d870b62c "Google IT Automation with Python Professional Certificate")
