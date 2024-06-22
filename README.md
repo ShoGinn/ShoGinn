@@ -6,7 +6,7 @@ In addition to my interest in automation, I'm passionate about DevOps and its ro
 
 ## Contact Me
 
-If you'd like to get in touch, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/scottdginn) or [Discord](https://discordapp.com/users/385709374422777856). You can also start a [Discussion](https://github.com/ShoGinn/ShoGinn/discussions). I'm always happy to chat with other technology enthusiasts and discuss new ideas.
+If you'd like to get in touch, start a [Discussion](https://github.com/ShoGinn/ShoGinn/discussions). I'm always happy to chat with other technology enthusiasts and discuss new ideas.
 
 ## Clever Links
 
