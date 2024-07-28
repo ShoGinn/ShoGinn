@@ -8,10 +8,6 @@ In addition to my interest in automation, I'm passionate about DevOps and its ro
 
 If you'd like to get in touch, start a [Discussion](https://github.com/ShoGinn/ShoGinn/discussions). I'm always happy to chat with other technology enthusiasts and discuss new ideas.
 
-## Clever Links
-
-In my free time, I enjoy exploring new topics and learning about different areas of technology. You can check out my [Wiki](https://github.com/ShoGinn/shoginn.github.io/wiki) for some of my favorite resources and links.
-
 ## My Certifications
 
 I'm proud to have earned several certifications demonstrating my expertise in various technology areas. Here are a few of my most recent certifications:
