@@ -27,7 +27,7 @@ jobs:
           target: grs
           filename: ${{ matrix.type }}.svg
       - name: Upload SVG file
-        uses: actions/upload-artifact@v4.4.3
+        uses: actions/upload-artifact@v4.5.0
         with:
           name: ${{ matrix.type }}
           path: grs
