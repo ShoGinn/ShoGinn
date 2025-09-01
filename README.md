@@ -24,13 +24,13 @@ I'm proud to have earned several certifications demonstrating my expertise in va
 
 Several training courses have helped me develop my skills and knowledge in various technology areas. Here are a few of my most recent training certificates, which can be found [here](certificates/README.md)
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
 You can check out my GitHub stats below to see some of my recent work. These stats show the number of contributions I've made to my repositories and the top programming languages I've used in my projects.
 
 [![Scott's GitHub stats](https://github-readme-stats.vercel.app/api?username=shoginn&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=shoginn&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app//api/top-langs/?username=shoginn&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Trophies
 
