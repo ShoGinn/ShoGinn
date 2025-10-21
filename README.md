@@ -13,11 +13,11 @@ If you'd like to get in touch, start a [Discussion](https://github.com/ShoGinn/S
 I'm proud to have earned several certifications demonstrating my expertise in various technology areas. Here are a few of my most recent certifications:
 
 <!--START_SECTION:badges-->
-[![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/cab41131-b981-48f9-ab58-81a3bafd594e "Google Cybersecurity Certificate")
-[![Google Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](http://www.credly.com/badges/bb559bbc-5902-4773-936e-c635f2394b12 "Google Data Analytics Professional Certificate")
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/4f26ff8e-77c7-4f7a-a5f1-0db1fdaa17e1 "AWS Cloud Quest: Cloud Practitioner")
-[![Google IT Automation with Python Professional Certificate](https://images.credly.com/size/110x110/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png)](http://www.credly.com/badges/07a1e15b-f6b2-46ad-bd51-9849d870b62c "Google IT Automation with Python Professional Certificate")
-[![Google IT Support Certificate](https://images.credly.com/size/110x110/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](http://www.credly.com/badges/61d03ea5-f26e-4c61-90a7-5cf57e91a919 "Google IT Support Certificate")
+<a href="https://www.credly.com/badges/cab41131-b981-48f9-ab58-81a3bafd594e" title="Google Cybersecurity Professional Certificate V2"><img src="https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate V2" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/bb559bbc-5902-4773-936e-c635f2394b12" title="Google Data Analytics Professional Certificate"><img src="https://images.credly.com/size/80x80/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics Professional Certificate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/4f26ff8e-77c7-4f7a-a5f1-0db1fdaa17e1" title="AWS Cloud Quest: Cloud Practitioner - Training Badge"><img src="https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/07a1e15b-f6b2-46ad-bd51-9849d870b62c" title="Google IT Automation with Python Professional Certificate"><img src="https://images.credly.com/size/80x80/images/efbdc0d6-b46e-4e3c-8cf8-2314d8a5b971/GCC_badge_python_1000x1000.png" alt="Google IT Automation with Python Professional Certificate" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/61d03ea5-f26e-4c61-90a7-5cf57e91a919" title="Google IT Support Certificate"><img src="https://images.credly.com/size/80x80/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support Certificate" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 ## My Certificates (Training)
