@@ -21,7 +21,7 @@ jobs:
     steps:
       - uses: actions/checkout@v5
       - name: Download SVG file
-        uses: suisei-cn/actions-download-file@v1.6.0
+        uses: suisei-cn/actions-download-file@v1.6.1
         with:
           url: ${{ env.README_STATS_URL}}${{ matrix.endpoint }}
           target: grs
