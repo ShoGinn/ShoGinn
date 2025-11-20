@@ -19,7 +19,7 @@ jobs:
           - type: "toplangs"
             endpoint: "/api/top-langs/?username=shoginn&layout=compact&theme=transparent"
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v6
       - name: Download SVG file
         uses: suisei-cn/actions-download-file@v1.6.1
         with:
