@@ -34,8 +34,7 @@ You can check out my GitHub stats below to see some of my recent work. These sta
 
 ## Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=ShoGinn&theme=darkhub&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Trophies](./profile/trophy.svg)
 ---
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ShoGinn&abbreviated=true)](https://github.com/antonkomarev/github-profile-views-counter)
