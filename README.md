@@ -13,6 +13,7 @@ If you'd like to get in touch, start a [Discussion](https://github.com/ShoGinn/S
 I'm proud to have earned several certifications demonstrating my expertise in various technology areas. Here are a few of my most recent certifications:
 
 <!--START_SECTION:badges-->
+[![CompTIA Security+ ce Certification](https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/abb23564-3680-416b-91bc-a4907eb728e8)
 [![Google Cybersecurity Professional Certificate V2](https://images.credly.com/size/80x80/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](https://www.credly.com/badges/cab41131-b981-48f9-ab58-81a3bafd594e)
 [![Google Data Analytics Professional Certificate](https://images.credly.com/size/80x80/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/bb559bbc-5902-4773-936e-c635f2394b12)
 [![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/4f26ff8e-77c7-4f7a-a5f1-0db1fdaa17e1)
