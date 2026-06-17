@@ -19,6 +19,7 @@ I'm proud to have earned several certifications demonstrating my expertise in va
 [![Google IT Support Certificate](https://images.credly.com/size/80x80/images/ae2f5bae-b110-4ea1-8e26-77cf5f76c81e/GCC_badge_IT_Support_1000x1000.png)](https://www.credly.com/badges/61d03ea5-f26e-4c61-90a7-5cf57e91a919)
 [![Google Data Analytics Professional Certificate](https://images.credly.com/size/80x80/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/bb559bbc-5902-4773-936e-c635f2394b12)
 [![AWS Cloud Quest: Cloud Practitioner - Training Badge](https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob)](https://www.credly.com/badges/4f26ff8e-77c7-4f7a-a5f1-0db1fdaa17e1)
+[![Google Cybersecurity Certificate & CompTIA Security+ dual credential](https://images.credly.com/size/80x80/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png)](https://www.credly.com/badges/2cd5decf-3796-4c66-b41a-a6f39049f568)
 <!--END_SECTION:badges-->
 
 ## My Certificates (Training)
