@@ -13,7 +13,6 @@ If you'd like to get in touch, start a [Discussion](https://github.com/ShoGinn/S
 I'm proud to have earned several certifications demonstrating my expertise in various technology areas. Here are a few of my most recent certifications:
 
 <!--START_SECTION:badges-->
-
 [![CompTIA Security+ ce Certification](https://images.credly.com/size/80x80/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)](https://www.credly.com/badges/b496c8fb-f3db-45dd-becb-b2dfe01c28cb)
 [![Google Cybersecurity Certificate & CompTIA Security+ dual credential](https://images.credly.com/size/80x80/images/8630f885-621e-420a-bdb5-11fe53d1caf6/image.png)](https://www.credly.com/badges/2cd5decf-3796-4c66-b41a-a6f39049f568)
 [![Google Cybersecurity Professional Certificate(v.2)](https://images.credly.com/size/80x80/images/ddcc63a4-8ee9-42ef-8a68-cb7e39cfbfef/blob)](https://www.credly.com/badges/bc680490-4f5e-401a-a055-d2ed482359ed)
